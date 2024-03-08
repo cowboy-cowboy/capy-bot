@@ -1,4 +1,6 @@
 # Capy-bot
+![arauj_capybara_drinking_coffee _3299a767-234b-4242-bc15-850bd1297853](https://github.com/cowboy-cowboy/capy-bot/assets/69636803/8192cc86-2a75-460f-880f-bf6e5f96414d)
+
 
 Capy-bot is a specialized Discord bot designed to enhance the experience within Discord servers by focusing on real-time message reading in specific channels, without storing messages. It leverages the discord.js library for seamless interaction with Discord's API, emphasizing simplicity and efficiency in its operations.
 

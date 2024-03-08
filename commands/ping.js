@@ -3,7 +3,7 @@ const { SlashCommandBuilder } = require("discord.js");
 module.exports = {
   data: new SlashCommandBuilder()
     .setName("ping")
-    .setDescription("Replies with Pong!"),
+    .setDescription("ABAIXO A DICTADURA!"),
   async execute(message, args) {
     message.channel
       .send("Pong!")

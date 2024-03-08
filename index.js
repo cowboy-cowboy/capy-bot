@@ -71,7 +71,8 @@ client.on(Events.InteractionCreate, async (interaction) => {
   if (!interaction.isChatInputCommand()) return;
 
   if (interaction.commandName === "ping") {
-    await interaction.reply({ content: "Public Pong!" });
+    const message = "Acho perfeitamente ok xingar bot e robos.";
+    await interaction.reply({ content: message });
   }
 });
 
